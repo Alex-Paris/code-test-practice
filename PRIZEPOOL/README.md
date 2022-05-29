@@ -1,5 +1,5 @@
 # Total Prize Money
-https://www.codechef.com/submit-v2/PRIZEPOOL?tab=statement
+https://www.codechef.com/submit-v2/PRIZEPOOL
 
 In a coding contest, there are prizes for the top rankers. The prize scheme is as follows:
 

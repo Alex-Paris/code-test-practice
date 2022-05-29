@@ -17,7 +17,7 @@ int main()
       if (input != 0)
         degree = i;
     }
-    cout << degree << "\n";
+    cout << degree << endl;
   }
 
   return 0;

@@ -1,5 +1,5 @@
 # Practice makes us perfect
-https://www.codechef.com/submit-v2/PRACTICEPERF?tab=statement
+https://www.codechef.com/submit-v2/PRACTICEPERF
 
 Most programmers will tell you that one of the ways to improve your performance in competitive programming is to practice a lot of problems.
 Our Chef took the above advice very seriously and decided to set a target for himself.

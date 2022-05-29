@@ -15,7 +15,7 @@ int main()
       result = x * 3;
     else
       result = y * 2;
-    cout << result << "\n";
+    cout << result << endl;
   }
 
   return 0;

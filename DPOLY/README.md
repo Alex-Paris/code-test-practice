@@ -1,5 +1,5 @@
 # Degree of Polynomial
-https://www.codechef.com/submit-v2/DPOLY?tab=statement
+https://www.codechef.com/submit-v2/DPOLY
 
 In mathematics, the degree of polynomials in one variable is the highest power of the variable in the algebraic expression with non-zero coefficient.
 

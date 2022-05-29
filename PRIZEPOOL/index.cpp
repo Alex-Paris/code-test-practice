@@ -11,7 +11,7 @@ int main()
     int x, y;
     cin >> x >> y;
 
-    cout << 10 * x + 90 * y << "\n";
+    cout << 10 * x + 90 * y << endl;
   }
   return 0;
 }
